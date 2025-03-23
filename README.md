@@ -1,5 +1,5 @@
 # miniGPT-Mateo-Erkin
-This repo contains the code for the assignment 2 of Machine Learning, a Bayesian Perspective for Mateo Miguelez and Erkin Özgul
+This repo contains the code for the assignment 2 of Machine Learning, a Bayesian Perspective for Mateo Miguelez and Erkin Özgür
 
 The code is heavily inspired from "https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1149s" Andrej Karpathy. 
 
