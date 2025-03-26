@@ -12,3 +12,4 @@ Because now the alphabet is bigger than in the original code, where tokenization
 
 The training is done with the TinyShakeaspeare and for the generation, 1 random character from the dataset is chosen and the model generates from there. For error validation 10% of the dataset is used.
 
+To run the code, you must create a visrtual enviroment and install packages like tiktoken, torch and numpy. There are two files, one has the erkinizer, our own tokenizer implementation, and the other uses gpt2 tokenizer from tiktoken library just for comparison. The recommended dictionary size for the erkinizer is about 1000.
